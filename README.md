@@ -19,5 +19,5 @@ All SQL scripts contain descriptions and dependencies if applicable. We tried pa
 Master.R incorporates changes such as in time window and tackling changes due to package updates. The codes have been tested to work on R 3.6.3, the version of R server as of writing in the IDI, together with packages installed.
 
 # Getting Help
-General enquiries can be sent to info@swa.govt.nz, tool specific questions can be sent to assembly_tool@swa.govt.nz
+General enquiries can be sent to info@swa.govt.nz.  
 
