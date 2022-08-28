@@ -24,9 +24,9 @@
 #'#################################################################################################################
 
 # connection details
-# DEFAULT_SERVER = "WPRDSQL36.stats.govt.nz"
-# DEFAULT_DATABASE = "IDI_Clean_20200120"
-# DEFAULT_PORT = 49530
+# DEFAULT_SERVER = "sql_server.stats.govt.nz"
+# DEFAULT_DATABASE = "IDI_Clean_xxxxxxxx"
+# DEFAULT_PORT = xxxxx
 # DO NOT RELEASE THESE VALUES
 
 # pre checks
